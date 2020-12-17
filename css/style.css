@@ -1,0 +1,75 @@
+body{
+    background-color: #000;
+}
+
+a.socialbox {
+    
+     
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 20px 30px;
+    width: 100%;
+     
+  }
+  
+  a.socialbox.facebook {
+    background-color: #3b5998;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+  }
+  a.socialbox.twitter {
+    background-color: #1da1f2;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+  }
+  a.socialbox.youtube {
+    background-color: #ff0000;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+  }
+  a.socialbox.instagram {
+    background-color: #c32aa3;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+  }
+  a.socialbox.tiktok {
+    background-color: #010101;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+  }
+  a.socialbox.amazon {
+    background-color: #ff9900;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+  }
+  a.socialbox.twitch {
+    background-color: #9146ff;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+  }
+  
+  
+  
+  
+  a.socialbox .social-icon {
+    line-height: 32px;
+    font-size: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    border-right: 1px solid rgba(255, 255, 255, 0.25);
+    padding-right: 15px;
+  }
+  a.socialbox .description {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 10px;
+    font-size: 13px;
+  }
+  
+  a.socialbox .description span {
+    display: block;
+    line-height: 16px;
+    font-size: 22px;
+  }
+  
