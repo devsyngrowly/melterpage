@@ -48,6 +48,18 @@ a.socialbox {
     -webkit-transition: background-color 0.25s ease-in-out;
     transition: background-color 0.25s ease-in-out;
   }
+
+    a.socialbox.discord {
+    background-color: #5865F2;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+  }
+
+    a.socialbox.email {
+    background-color: #9146ff;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+  }
   
   
   
